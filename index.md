@@ -18,8 +18,10 @@ Software Engineer
 
 ## Professional Experience
 
-### **Bank of America**  
-**AVP - Software Engineer II - Internal Cloud** *(Jan 2020 - Present)*  
+## **Bank of America**
+## *(Jan 2020 - Present)*
+
+**AVP - Software Engineer II - Internal Cloud** 
 - Delivered **Backup as a Service**, ensuring backups for 50K+ servers & databases.
 - Migrated **role-based access controls** for 2000+ users using **Java 17** security system.
 - Built observability stack (**Prometheus, Grafana, Dynatrace**) for application monitoring.
@@ -27,14 +29,15 @@ Software Engineer
 - Upgraded **Spring Boot** services for resiliency across data centers.
 - Led bug resolution for **100+ production issues** using **Elastic logs** & troubleshooting.
 
-### **Bank of America**  
-**Technical Analyst – Network Operations** *(Jul 2019 - Jan 2020)*  
+## *(Jul 2019 - Jan 2020)*  
+
+**Technical Analyst – Network Operations** 
 - Enhanced **Python scripts** for **MiFID II compliance** and integrated with **Splunk alerts**.
 - Optimized **SevOne network monitoring**, improving device management.
 - Cleaned up **firewall rules** and collaborated with rule owners to remediate.
 
-### **Bank of America**  
-**Industrial Placement** *(Jun 2017 - Jul 2018)*  
+## *(Jun 2017 - Jul 2018)*  
+**Industrial Placement** 
 - Resolved operational issues in **Cloud technologies** within **Command Centre**.
 - Provided **Desktop Support** for OS rebuilds, registry fixes & hardware.
 - Led **SevOne implementation** across 20+ offices, improving network visualization.
